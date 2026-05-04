@@ -1,0 +1,12 @@
+{
+  "name": "header-search-table",
+  "version": "1.0.0",
+  "description": "Vue2 Element UI 表头搜索组件 - 零配置自动识别字典",
+  "main": "index.js",
+  "keywords": ["vue", "vue2", "element-ui", "table", "search", "dict"],
+  "license": "MIT",
+  "peerDependencies": {
+    "element-ui": "^2.13.0",
+    "vue": "^2.6.0"
+  }
+}
